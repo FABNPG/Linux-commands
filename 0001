@@ -1,0 +1,15 @@
+apropos [apropos cp] - wyszukuje polecenia związane ze słowem którego szukasz
+man [man cp] - manual jak użyć jakiegoś polecenia
+
+cat [cat plik] wyświetla zawartość pliku
+cd - poruszanie się po katalogach
+find [find . -name xd.txt] przejrzyj katalog w poszukiwaniu danego pliku
+ls (czasem jak w Windowsie: "dir") - listowanie folderów
+locate - wypisuje gdzie ostatnio, na tym komputerze, był widziany plik o podanej nazwie (lub fragmencie nazwy)
+whereis [whereis [polecenie]] wyszukanie plików stron manuala
+
+cp [cp plik_1 plik_2 – stworzy ./plik_2 identyczny z plik_1] kopiuje plik 
+mkdir [mkdir nowy_folder] tworzy nowy folder
+rm (uwaga na "rm -rf") [rm plik/katalog] - kasowanie pliku/folderu
+rmdir [rm dir katalog] usuwa pusty katalog
+touch (touch plik) zmienia czas dostępu i modyfikacji pliku, lub jeśli plik nie istnieje - tworzy go
